@@ -37,7 +37,7 @@
 .contact-information::before{
     content: "";
     width: 100%;
-    border-top: 1px dotted rgba(0, 89, 90, 0.35);
+    border-top: 1px dotted rgba(29, 53, 87, 0.35);
     margin-bottom: 0.75rem;
 }
 
@@ -60,16 +60,16 @@
     margin-bottom: 0.6rem;
     color: var(--theme-color);
     border-radius: 50%;
-    background-color: rgba(0, 89, 90, 0.08);
-    border: 1px solid rgba(0, 89, 90, 0.12);
+    background-color: rgba(29, 53, 87, 0.08);
+    border: 1px solid rgba(29, 53, 87, 0.12);
     transition: background-color 0.25s ease, color 0.25s ease, transform 0.2s ease, box-shadow 0.2s ease;
     text-decoration: none;
 }
 .contact-icon-wrapper:hover {
-    background-color: rgba(0, 89, 90, 0.16);
+    background-color: rgba(29, 53, 87, 0.16);
     color: var(--theme-color);
     transform: translateY(-2px);
-    box-shadow: 0 6px 16px rgba(0, 89, 90, 0.18);
+    box-shadow: 0 6px 16px rgba(29, 53, 87, 0.18);
 }
 
 .contact-icon{
@@ -100,7 +100,7 @@ color: var(--text-color);
     transition: color 0.2s ease, opacity 0.2s ease, background-size 0.25s ease;
 }
 #cv_download:hover {
-    color: #004244;
+    color: #14253f;
     opacity: 0.9;
 }
 #cv_download svg {
@@ -125,7 +125,7 @@ color: var(--text-color);
     transition: background-size 0.25s ease, color 0.2s ease;
 }
 .contact-information-item .more-contact-detail a:hover {
-    color: #004244;
+    color: #14253f;
     background-size: 100% 1px;
 }
 

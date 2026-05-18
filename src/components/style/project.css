@@ -27,6 +27,40 @@
     color: var(--white-color);
 }
 
+.project_section:hover,
+.project_section:hover .project_year,
+.project_section:hover .projectDescription_item,
+.project_section:hover .project_expand,
+.project_section:hover p,
+.project_section:hover li,
+.project_section:hover span,
+.section_changed,
+.section_changed .project_year,
+.section_changed .projectDescription_item,
+.section_changed .project_expand,
+.section_changed p,
+.section_changed li,
+.section_changed span{
+    color: var(--white-color);
+}
+
+.project_section:hover .projectSkilltags_item,
+.section_changed .projectSkilltags_item{
+    border-color: var(--white-color);
+    color: var(--white-color);
+}
+
+.project_section:hover .projectSkilltags_item:hover,
+.section_changed .projectSkilltags_item:hover{
+    background-color: var(--white-color);
+    color: var(--theme-color);
+}
+
+.project_section:hover .projectLink,
+.section_changed .projectLink{
+    color: var(--white-color);
+}
+
 .project_year{
     font-weight: 200;
 }

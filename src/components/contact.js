@@ -67,7 +67,7 @@ function Contact() {
                       aria-label="Phone"
                     >
                       <AiOutlinePhone
-                        color="#00595a"
+                        color="#1d3557"
                         className="contact-icon"
                       />
                     </a>
@@ -83,7 +83,7 @@ function Contact() {
                       className="contact-icon-wrapper"
                       aria-label="Email"
                     >
-                      <AiOutlineMail color="#00595a" className="contact-icon" />
+                      <AiOutlineMail color="#1d3557" className="contact-icon" />
                     </a>
                     <div className="more-contact-detail">
                       <a
@@ -104,7 +104,7 @@ function Contact() {
                       aria-label="LinkedIn"
                     >
                       <AiOutlineLinkedin
-                        color="#00595a"
+                        color="#1d3557"
                         className="contact-icon"
                       />
                     </a>
