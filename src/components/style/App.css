@@ -2,7 +2,7 @@
     --white-color: #fff;
     --black-color: rgb(39, 39, 39);
     --text-color: rgb(22, 22, 22);
-    --theme-color: #00595a;
+    --theme-color: #1d3557;
     --page-color: #F5F6F8;
     
   }
@@ -48,7 +48,7 @@
   #profile-img {
     width: 100%; 
     height: auto;  
-    margin-top: 20px;
+    margin-top: 22px;
     transform: translateY(-10px) scale(1.5);
   }
 
@@ -137,7 +137,7 @@
   .separator{
     margin-left: 20px;
     padding-left: 20px;
-    border-left: #00595a solid 3px 
+    border-left: #1d3557 solid 3px
   }
 
 
