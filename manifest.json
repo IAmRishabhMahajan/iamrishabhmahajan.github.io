@@ -1,6 +1,6 @@
 {
   "short_name": "Rishabh Mahajan",
-  "name": "Rishabh Mahajan - Data Science from A to Z",
+  "name": "Rishabh (Ryan) Mahajan - Portfolio",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#1d3557",
   "background_color": "#ffffff"
 }
